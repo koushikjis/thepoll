@@ -1,3 +1,4 @@
 {
-    "siteName": "The Poll"
+    "siteName": "The Poll",
+    "variant": ["success", "info", "warning", "danger"]
 }
